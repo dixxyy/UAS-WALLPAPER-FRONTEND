@@ -1,16 +1,26 @@
-# uas_wallpaper_frontend
+# Project Wallpaper App (Untirta - Teknik Informatika)
 
-A new Flutter project.
+Project Pemrograman Website dan Mobile dengan tema "Wallpaper App".
 
-## Getting Started
+> Wallpaper App adalah aplikasi yang menyediakan beragam gambar latar belakang berkualitas tinggi untuk personalisasi layar perangkat Anda. Temukan pilihan menarik dari alam, seni, dan banyak kategori lainnya dalam satu aplikasi mudah digunakan.
 
-This project is a starting point for a Flutter application.
+## How to run in your vs-code
 
-A few resources to get you started if this is your first Flutter project:
+- flutter upgrade
+- flutter pub get
+- flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Contributor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Abdul Aziz
+- Rojak Kurniawan
+- Ahmad Rafi Kannajmi
+- Muhammad Rizqi Fadhillah
+- Dicky Saputra
+- Devin Wijaya
+- Muhammad Damar Firdaus
+- Ilham Ambia
+- Aditya Sastraatmaja
+- Muhammad Rifqi Arrasyid
+- Daffa Dzaky Syahbani
+- Muhammad Alviansyah

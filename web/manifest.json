@@ -1,6 +1,6 @@
 {
-    "name": "uas_wallpaper_frontend",
-    "short_name": "uas_wallpaper_frontend",
+    "name": "uas_pemweb",
+    "short_name": "uas_pemweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
